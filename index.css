@@ -648,7 +648,7 @@ input:checked + .first.para_farsi{
       margin-top: 100px;
     }
     .parallax {
-      background: url(./images/Wedding\ Cake\ 2.JPG) fixed;
+      background: url(./images/Wedding\ Cake\ 2.JPG);
       background-repeat: no-repeat;
       background-size: cover;
     }
