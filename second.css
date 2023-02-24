@@ -1,0 +1,258 @@
+.contact_header{
+    margin-left: 2025px;
+}
+
+.c_p2{
+    margin-left: 600px;
+}
+.overview_para{
+    margin-right: 10px;
+}
+
+.overview_1{
+    margin-left: 2000px;
+}
+
+.photo_container{
+    margin-left: 300px;
+}
+.gallery_btn{
+    top: 485%;
+}
+
+.process_title{
+    margin-left: 1700px;
+}
+
+.process{
+    text-align: right;
+}
+
+.process_documents{
+    text-align: right;
+}
+.menu li a{
+    font-size: 25px;
+}
+
+@media screen and (max-width: 992px){
+    .header{
+        position: fixed;
+      }
+      html, body {
+        overflow-x: hidden;
+      }
+      .margin{
+        margin: 100px 0px;
+      }
+      .logo{
+        width: 100px;
+      }
+      .logo_title{
+      font-weight: bold;
+      letter-spacing: 1px;
+      left: 32%;
+      top: 45%;
+      position: absolute;
+      font-size: 15px;
+      color: white;
+      }
+      .lang_button{
+        padding: 5px;
+        border-radius: 10%;
+        position: absolute;
+        left: 65%;
+        top: 3%;
+      }
+      .lang_button2{
+        padding: 5px;
+        width: 58px;
+        border-radius: 10%;
+        position: absolute;
+        left: 81%;
+        top: 3%;
+      }
+  
+  
+      .gallery-images {
+        margin-left: 5px;
+        width: 350px;
+        padding: 10px;
+      }
+      .image1_1 {
+        margin-top: 100px;
+      }
+      .parallax {
+        background: url(./images/Wedding\ Cake\ 2.JPG) fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      .parallax_inner{
+        padding-top: 100%;
+      }
+      .process_title{
+        margin-bottom: 0px;
+      }
+      .margin2{
+        padding-top: 0px;
+      }
+  
+  
+      .contact_wrapper{
+      text-align: left;
+      font-size: 20px;
+      font-weight: 500;
+      margin-left: 10px;
+      display: block;
+      }
+      .contact_img{
+      margin-bottom: 70px;
+      border-radius: 10px;
+      margin-left: 0px;
+      height: 450px;
+      }
+  
+      .first{
+        display: block;
+      }
+      .overview_img {
+        height: 350px;
+      }
+      .process_wrapper{
+        display: block;
+        margin-bottom: 0px;
+      }
+      .process_documents{
+        font-size: 18px;
+      }
+      .process_img{
+        margin-top: 10px;
+        margin-left: 0px;
+        height: 180px;
+      }
+      .photo_container{
+      display: flex;
+      align-items: center;
+      margin-top: 60px;
+      margin-left: 5px;
+      }
+      .wedding_photo{
+        height: 180px;
+        margin: 5px;
+      }
+      .gallery_btn{
+      top: 392%;
+      left: 39%;
+      }
+  
+      .enquiry{
+          margin-top: 30px;
+          margin-left: 45px;
+      }
+  
+  
+      /* nav bar */
+      .hamburger,
+      .toggle-menu {
+          display: block;
+      }
+  
+      .header {
+          padding: 10px 20px;
+      }
+  
+      .menu {
+          justify-content: start;
+          flex-direction: column;
+          align-items: center;
+          position: absolute;
+          top: 0;
+          right: -200px;
+          background-color: white;
+          width: 200px;
+          height: 100%;
+          padding-top: 65px;
+      }
+  
+      .menu li {
+          width: 100%;
+      }
+      li {
+          background-color: white;
+      }
+  
+      .menu li,
+      .menu li:hover {
+          /* padding: 30px; */
+          font-size: 24px;
+          box-shadow: 0 1px 0 #be9553 inset;
+      }
+  
+  
+      .overview_1{
+        font-size: 30px;
+      }
+      .overview_para{
+        font-size: 18px;
+        margin: 10px;
+      }
+  
+      .process_para{
+        text-align: left;
+        font-size: 18px;
+      }
+  
+      input{
+        width: 300px;
+      }
+      textarea{
+        width: 300px;
+      }
+      .enquiry_title{
+        margin-left: 36%;
+      }
+      .c_p2{
+        font-size: 16px;
+        margin-left: 0px;
+        text-align: right;
+        margin-right: 10px;
+      }
+      .c_p1{
+        font-size: 16px;
+      }
+      .footer{
+        font-size: 13px;
+      }
+      .contact_header{
+        margin-left: 0px;
+        text-align: right;
+        margin-right: 10px;
+      }
+      .overview_1{
+        margin-left: 0px;
+        text-align: right;
+        margin-right: 10px;
+      }
+      .overview_para{
+        text-align: right;
+        margin-right: 10px;
+      }
+      .gallery_btn{
+        top: 348%;
+      }
+
+      .process_title{
+        margin-left: 0px;
+        margin-right: 10px;
+        text-align: right;
+        font-size: 28px;
+      }
+      .process_para{
+        text-align: right!important;
+      }
+
+      .logo_title{
+        left: 42%;
+      }
+  
+}
