@@ -778,6 +778,7 @@ input:checked + .first.para_farsi{
     }
     .c_p2{
       font-size: 16px;
+        color: black;
     }
     .c_p1{
       font-size: 16px;
